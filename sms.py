@@ -1,3 +1,5 @@
+#ของอุดมพงษ์
+#เค้าฝาก
 import requests,json
 import random
 import os
